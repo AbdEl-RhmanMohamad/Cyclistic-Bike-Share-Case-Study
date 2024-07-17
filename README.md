@@ -1,3 +1,5 @@
+![dataset-cover](https://github.com/user-attachments/assets/12748a3c-5f88-4d3f-ac5e-a4242e77b77a)
+
 # Cyclistic-Bike-Share-Case-Study
 Google Data Analytics Professional Certificate's final Project
 
